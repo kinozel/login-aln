@@ -1,0 +1,17 @@
+body {
+    max-width: 100%;
+    background-image: url(bg.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    width: 15%;
+    margin-left: 40%;
+    margin-top: 50px;
+}
+
+#login {
+    border-radius: 30px;
+    border-width: 3px;
+}
